@@ -22,7 +22,7 @@ poetry add sp_ask_list_of_concurrent_chats
 
 ## Requirement
 
-[lh3api configuation files](https://gitlab.com/libraryh3lp/libraryh3lp-sdk-python/) need to be installed
+lh3api is a requirement for this package[ lh3api configuation files](https://gitlab.com/libraryh3lp/libraryh3lp-sdk-python/) need to be installed first.
 
 
 In ~/.lh3/config::
